@@ -1,1 +1,1 @@
-preact-nextjs
+Replace React with Preact only in client production build to improve the performance
